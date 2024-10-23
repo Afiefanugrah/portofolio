@@ -10,3 +10,13 @@
   margin-top: 20px;
   
 }
+
+.my-con-col{
+  height: 70vh;
+  width: 100%;
+  /* height: inherit; */
+}
+
+.my-col-6 {
+  border: 1px solid black;
+}

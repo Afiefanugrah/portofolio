@@ -8,10 +8,10 @@ const Home = () => {
     <Container fluid className="p-0 bg-success bg-my">
       <main className="bg-main">
         <Navbar />
-        <div class="container text-center border my-container">
-          <div class="row align-items-center">
-            <div class="col-6">Column</div>
-            <div class="col-6">Column</div>
+        <div className="container text-center border my-container">
+          <div className="row align-items-center my-con-col">
+            <div className="col-6 border">Column</div>
+            <div className="col-6 border">Column</div>
           </div>
         </div>
         <div>Home</div>
